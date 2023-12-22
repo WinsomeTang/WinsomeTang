@@ -1,5 +1,10 @@
-### Hi there 👋
-[![Munchlax](https://img.pokemondb.net/sprites/diamond-pearl/shiny/munchlax.png)](https://pokemondb.net/pokedex/munchlax)
+[![Munchlax](https://img.pokemondb.net/sprites/diamond-pearl/shiny/munchlax.png)](https://pokemondb.net/pokedex/munchlax) 
+
+**Hey!** im Winsome and i code stuff to make my life easier:) I am currently a Computer Science student at Sheridan College.
+
+During my free time, i like to watch [movies](https://letterboxd.com/pineapplebunss/) 🍿, read mangas, research interesting things and work on side projects 💪.
+
+Want to get boba and chat? [email me :D](mailto:winsometang888@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
 
 <!--
 **WinsomeTang/WinsomeTang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
