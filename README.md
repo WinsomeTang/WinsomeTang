@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![Munchlax](https://img.pokemondb.net/sprites/diamond-pearl/shiny/munchlax.png)](https://pokemondb.net/pokedex/munchlax)
 
 <!--
 **WinsomeTang/WinsomeTang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
