@@ -6,6 +6,10 @@ During my free time, i like to watch [movies](https://letterboxd.com/pineapplebu
 
 Want to get boba and chat? [email me :D](mailto:winsometang888@gmail.com)
 
+#30nites of code: [Check out my progress!](https://www.codedex.io/@tangwins/30-nites-of-code)
+
+![@tangwins #30NitesOfCode](https://www.codedex.io/api/petStatus?user=tangwins)
+
 <!--
 **WinsomeTang/WinsomeTang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
