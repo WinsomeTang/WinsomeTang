@@ -1,16 +1,38 @@
-[![Munchlax](https://img.pokemondb.net/sprites/diamond-pearl/shiny/munchlax.png)](https://pokemondb.net/pokedex/munchlax) 
 
-**Hey!** im Winsome and i code stuff to make my life easier:) I am currently a Computer Science student at Sheridan College.
+<div>
+  <a href="https://pokemondb.net/pokedex/munchlax">
+    <img src="https://img.pokemondb.net/sprites/diamond-pearl/shiny/munchlax.png" alt="Munchlax">
+  </a>
+  
+  <p>
+    <strong>Hey!</strong>I'm Winsome and i code stuff to make my life easier:) I am currently studying CS with a focus in Mobile Computing.
+  </p>
 
-During my free time, i like to watch [movies](https://letterboxd.com/pineapplebunss/) 🍿, read mangas, research interesting things and work on side projects 💪.
+  <p>
+    I am currently working on side projects and searching for a Summer☀️ 2025 co-op/internship !
+  </p>
 
-Want to get boba and chat? [email me :D](mailto:winsometang888@gmail.com)
+  <p>
+    During my free time, i like to watch <a href="https://letterboxd.com/pineapplebunss/">movies</a> 🍿, read mangas, research interesting things and work on side projects 💪.
+  </p>
 
-#30nites of code: [Check out my progress!](https://www.codedex.io/@tangwins/30-nites-of-code)
+  <p>
+    Want to get boba and chat? <a href="mailto:winsometang888@gmail.com">email me :D</a>
+  </p>
 
-![@tangwins #30NitesOfCode](https://www.codedex.io/api/petStatus?user=tangwins)
+  <p>
+    #30nites of code: <a href="https://www.codedex.io/@tangwins/30-nites-of-code">Check out my progress!</a>
+  </p>
+  
 
+  
+  <div style="display: flex; align-items: center; gap: 50px;">
+    <img src="https://www.codedex.io/api/petStatus?user=tangwins" alt="@tangwins #30NitesOfCode" style="width: auto;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WinsomeTang&layout=compact" alt="Top Langs" style="width: 40%;">
+  </div>
+</div>
 <!--
+
 **WinsomeTang/WinsomeTang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
