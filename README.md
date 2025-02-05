@@ -5,7 +5,7 @@
   </a>
   
   <p>
-    <strong>Hey!</strong>I'm Winsome and i code stuff to make my life easier:) I am currently studying CS with a focus in Mobile Computing.
+    <strong>Hey!</strong> I'm Winsome and i code stuff to make my life easier:) I am currently studying CS with a focus in Mobile Computing.
   </p>
 
   <p>
