@@ -17,10 +17,6 @@
   </p>
 
   <p>
-    Want to get boba and chat? <a href="mailto:winsometang888@gmail.com">email me :D</a>
-  </p>
-
-  <p>
     #30nites of code: <a href="https://www.codedex.io/@tangwins/30-nites-of-code">Check out my progress!</a>
   </p>
   
